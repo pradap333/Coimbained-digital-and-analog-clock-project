@@ -1,5 +1,5 @@
 Hello everyone!
-  Welcome to my project named "Combained digital and analog clock".
+  Welcome to my project named "Combined digital and analog clock".
   Languages used: HTML5, CSS3 and JavaScript.
   Tool: Visual Studio code
   HTML5: With help of html5 i am created the body contents of my project and usedd tags in the proper manner.
